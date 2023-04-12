@@ -1,4 +1,4 @@
-### About
+## About
 
 This code is for my blog post on "Converting Express apps to Netlify functions". You can read the post [here]. 
 
